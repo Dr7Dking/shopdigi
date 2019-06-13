@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "shopdigi",
+    "packageName": "com.prospero.shopdigi",
+    "packageFolder": "com/prospero/shopdigi",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.0",
+    "jwtSecretKey": "ZjE0ZWExNGUxZmVlNjc0OTJhMmFjMjZlY2RmZTBkZGEwMTI3Yzk1ZTcyYjQ3MWQwZWY5ZGMwZTE0NzA4ZDM5MGFlMmZlMzliZGY3YzNiMWUyZGRmZjNjYWY4OTRlN2MwYmE0MDQ0ZGM1MGY1YWIxYTI5NGY4NDdkYWFlMWVjNzY=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "Dr7Dking",
+  "repository-name": "shopdigi"
+}
